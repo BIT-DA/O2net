@@ -10,4 +10,4 @@
   
 </div>
 
-This repository contains the code of our CVPR 2021 work "Improving Transferability for Domain Adaptive Detection Transformers".
+This repository contains the code of our ACM MM 2022 work "Improving Transferability for Domain Adaptive Detection Transformers".
