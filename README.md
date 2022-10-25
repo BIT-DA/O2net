@@ -2,7 +2,7 @@
 
 # Improving Transferability for Domain Adaptive Detection Transformers
   
-  <font size=5> Kaixiong Gong, Shuang Li, et al. </font>
+  <font size=10> Kaixiong Gong, Shuang Li, et al. 
   
   ACM Multimedia 2022, Lisbon, Portugal.
   
