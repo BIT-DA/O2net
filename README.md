@@ -60,9 +60,7 @@ Four datasets are involved:
 - BDD100k [download](https://doc.bdd100k.com/download.html#k-images)
 - Sim10k [download](https://fcav.engin.umich.edu/projects/driving-in-the-matrix)
 
-**Processing dataset annotations**
-
-All annotations are should in COCO format which can be processed by the code.
+**Processing dataset annotations**. All annotations are should in COCO format which can be processed by the code. We should covert the above four datasets in to CoCo Format.
 
 
 
