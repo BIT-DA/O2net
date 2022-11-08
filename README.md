@@ -51,3 +51,9 @@ sh ./make.sh
 python test.py
 ```
 
+### Dataset
+
+Four datasets are involved:
+
+- Cityscapes
+
