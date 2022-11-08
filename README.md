@@ -12,6 +12,17 @@
 
 This repository contains the code of our ACM MM 2022 work "Improving Transferability for Domain Adaptive Detection Transformers".
 
+If you found our paper or this project is useful to you, please cite:
+
+```
+@article{gong2022improving,
+  title={Improving Transferability for Domain Adaptive Detection Transformers},
+  author={Gong, Kaixiong and Li, Shuang and Li, Shugang and Zhang, Rui and Liu, Chi Harold and Chen, Qiang},
+  journal={arXiv preprint arXiv:2204.14195},
+  year={2022}
+}
+```
+
 ## Getting Started
 
 The first thing is built the environment. We should follow the following insturction (see [Deformable DETR project](https://github.com/fundamentalvision/Deformable-DETR#installation) for more details). 
@@ -63,6 +74,8 @@ Four datasets are involved:
 **Processing dataset annotations**. All annotations are should in COCO format which can be processed by the code. We should covert the above four datasets in to CoCo Format.
 
 ## Training
+
+
 
 ## Testing
 
