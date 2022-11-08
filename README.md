@@ -75,7 +75,11 @@ Four datasets are involved:
 
 ## Training
 
+To train our method O2net, use the following script:
 
+```
+
+```
 
 ## Testing
 
