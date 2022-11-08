@@ -55,5 +55,10 @@ python test.py
 
 Four datasets are involved:
 
-- Cityscapes
+- Cityscapes [download](https://www.cityscapes-dataset.com/downloads/) (There were a lot of version of Cityscapes, make sure you download the right one)
+- Foggy Cityscapes [downlaod](https://www.cityscapes-dataset.com/downloads/)
+- BDD100k [download](https://doc.bdd100k.com/download.html#k-images)
+- Sim10k [download](https://fcav.engin.umich.edu/projects/driving-in-the-matrix)
+
+
 
