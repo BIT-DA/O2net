@@ -64,7 +64,7 @@ python test.py
 
 ### Dataset
 
-Four datasets are involved:
+The second step is to prepare datasets. Four datasets are involved:
 
 - Cityscapes [[download](https://www.cityscapes-dataset.com/downloads/)] (There were a lot of versions of Cityscapes, make sure you download the right one)
 - Foggy Cityscapes [[downlaod](https://www.cityscapes-dataset.com/downloads/)]
