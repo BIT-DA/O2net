@@ -12,3 +12,6 @@
 
 This repository contains the code of our ACM MM 2022 work "Improving Transferability for Domain Adaptive Detection Transformers".
 
+## Getting Started
+
+This work is built on [Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR) and we borrow a lot of code from its framework.
