@@ -14,4 +14,5 @@ This repository contains the code of our ACM MM 2022 work "Improving Transferabi
 
 ## Getting Started
 
-This work is built on [Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR) and we borrow a lot of code from its framework.
+This work is built on [Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR) and we borrow a lot of code from its framework (thanks to this great project!).
+The first step to prepare the environment
