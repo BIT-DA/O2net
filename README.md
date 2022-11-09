@@ -101,11 +101,11 @@ sh DA.sh
 
 # Main results
 
-|   Model   | Source Domain| Target Domain |   Download    |
-| --------- |:--------:|:-----------:|:-------------:|
-| MetaSAug+LDAM | 200  |22.65 | [ResNet32](https://drive.google.com/drive/folders/1eKGWDXBa1jqOBWXRUVks6iZOn2YhKkET?usp=sharing) |MetaSAug+CE | 200  |23.11 | [ResNet32](https://drive.google.com/drive/folders/1eKGWDXBa1jqOBWXRUVks6iZOn2YhKkET?usp=sharing) |
-| MetaSAug+LDAM | 100  |19.34 | [ResNet32](https://drive.google.com/drive/folders/1eKGWDXBa1jqOBWXRUVks6iZOn2YhKkET?usp=sharing) |MetaSAug+CE | 100  |19.46 | [ResNet32](https://drive.google.com/drive/folders/1eKGWDXBa1jqOBWXRUVks6iZOn2YhKkET?usp=sharing) |
-| MetaSAug+LDAM | 50   |15.66 | [ResNet32](https://drive.google.com/drive/folders/1eKGWDXBa1jqOBWXRUVks6iZOn2YhKkET?usp=sharing) |MetaSAug+CE | 50  |15.97 | [ResNet32](https://drive.google.com/drive/folders/1eKGWDXBa1jqOBWXRUVks6iZOn2YhKkET?usp=sharing) |
+|   Model   | Source Domain| Target Domain | mAP@50 |  Download    |
+| --------- |:--------:|:-----------:|:-------------:|:-------------:|
+| O2Net | Cityscapes  | Foggy Cityscapes |     | [Model]() |
+| O2Net | Cityscapes  | BDD100k          |     | [Model]() |
+| O2Net | Sim10k      | Cityscapes       |     | [Model]() |
 
 
 
