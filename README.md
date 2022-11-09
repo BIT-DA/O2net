@@ -77,6 +77,8 @@ The second step is to prepare datasets. Four datasets are involved:
 - BDD100k to CoCo Format: using this [script](https://github.com/BIT-DA/O2net/blob/main/dataset_util/bdd2coco.py).
 - Sim10k to CoCo Format: using this [script](https://github.com/BIT-DA/O2net/blob/main/dataset_util/sim2coco.py).
 
+(**Optional**): using the provided [data list]().
+
 ## Training
 
 To train our method O2net on Cityscapes to Foggy Cityscapes, first pre-train a source model:
