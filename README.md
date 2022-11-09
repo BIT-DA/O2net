@@ -99,7 +99,7 @@ sh DA.sh
 
 ## Testing
 
-# Main results
+## Main results
 
 |   Model   | Source Domain| Target Domain | mAP@50 |  Download    |
 | --------- |:--------:|:-----------:|:-------------:|:-------------:|
