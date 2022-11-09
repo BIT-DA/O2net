@@ -91,4 +91,9 @@ CUDA_VISIBLE_DEVICES=* GPUS_PER_NODE=n ./tools/run_dist_launch.sh n ./configs/DA
 
 
 
+Or simply run:
+
+```
+sh DA.sh
+```
 
