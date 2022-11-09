@@ -25,7 +25,7 @@ If you found our paper or this project is useful to you, please cite:
 
 ## Getting Started
 
-The first thing is built the environment. We should follow the following insturction (see [Deformable DETR project](https://github.com/fundamentalvision/Deformable-DETR#installation) for more details). 
+The first thing is to built the environment. We should follow the following insturction (see [Deformable DETR project](https://github.com/fundamentalvision/Deformable-DETR#installation) for more details). 
 
 ### Requirements
 
