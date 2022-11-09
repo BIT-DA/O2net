@@ -73,9 +73,9 @@ The second step is to prepare datasets. Four datasets are involved:
 
 **Processing dataset annotations**. All annotations are should in COCO format which can be processed by the code. We should covert the above four datasets in to CoCo Format.
 
-- Cityscapes to CoCo format: using this [script]().
-- BDD100k to CoCo format: using this [script]().
-- Sim10k to CoCo format: using this [script]().
+- Cityscapes to CoCo Format: using this [script]().
+- BDD100k to CoCo Format: using this [script]().
+- Sim10k to CoCo Format: using this [script]().
 
 ## Training
 
