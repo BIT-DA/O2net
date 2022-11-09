@@ -87,13 +87,17 @@ then:
 CUDA_VISIBLE_DEVICES=* GPUS_PER_NODE=n ./tools/run_dist_launch.sh n ./configs/DA_r50_deformable_detr.sh --output_dir exps/ours --dataset_file city2foggy --checkpoint exps/source_model/checkpoint.pth
 ```
 
-## Testing
-
-
-
 Or simply run:
 
 ```
 sh DA.sh
 ```
+
+## Testing
+
+
+
+
+
+
 
