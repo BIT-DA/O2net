@@ -75,7 +75,7 @@ The second step is to prepare datasets. Four datasets are involved:
 
 ## Training
 
-To train our method O2net, first pre-train a source model:
+To train our method O2net on Cityscapes to Foggy Cityscapes, first pre-train a source model:
 
 ```
 CUDA_VISIBLE_DEVICES=* GPUS_PER_NODE=n ./tools/run_dist_launch.sh n ./configs/r50_deformable_detr.sh --output_dir exps/source_model --dataset_file city2foggy_source
