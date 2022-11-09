@@ -73,6 +73,8 @@ The second step is to prepare datasets. Four datasets are involved:
 
 **Processing dataset annotations**. All annotations are should in COCO format which can be processed by the code. We should covert the above four datasets in to CoCo Format.
 
+- To convert the (Foggy) Cityscapes to CoCo format, using this [script]().
+
 ## Training
 
 To train our method O2net on Cityscapes to Foggy Cityscapes, first pre-train a source model:
