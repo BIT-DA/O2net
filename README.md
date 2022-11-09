@@ -73,9 +73,9 @@ The second step is to prepare datasets. Four datasets are involved:
 
 **Processing dataset annotations**. All annotations are should in COCO format which can be processed by the code. We should covert the above four datasets in to CoCo Format.
 
-- Cityscapes to CoCo Format: using this [script](). (You can also refer to this [project](https://github.com/facebookresearch/maskrcnn-benchmark/tree/main/maskrcnn_benchmark/data#creating-symlinks-for-cityscapes))
-- BDD100k to CoCo Format: using this [script]().
-- Sim10k to CoCo Format: using this [script]().
+- Cityscapes to CoCo Format: using this [script](https://github.com/BIT-DA/O2net/blob/main/dataset_util/city2coco.py). (You can also refer to this [project](https://github.com/facebookresearch/maskrcnn-benchmark/tree/main/maskrcnn_benchmark/data#creating-symlinks-for-cityscapes))
+- BDD100k to CoCo Format: using this [script](https://github.com/BIT-DA/O2net/blob/main/dataset_util/bdd2coco.py).
+- Sim10k to CoCo Format: using this [script](https://github.com/BIT-DA/O2net/blob/main/dataset_util/sim2coco.py).
 
 ## Training
 
