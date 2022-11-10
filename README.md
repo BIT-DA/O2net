@@ -111,7 +111,7 @@ sh DA.sh
 | Source_only| Cityscapes  | Foggy Cityscapes |  28.6   | [Model](https://drive.google.com/file/d/1OD1y3j97fJgITvkqozJpDRyEtxuBKvU4/view?usp=sharing) |
 | O2Net | Cityscapes  | Foggy Cityscapes | 47.2 | [Model](https://drive.google.com/file/d/1hv_w_hJF_rVgm77IO2Ct2JVi1Z4UfryD/view?usp=sharing) |
 
-_note_: The batch size is set as 2 on a single GPU.
+_Note_: The batch size is set as 2 on a single GPU.
 
 ## Acknowledgement
 
