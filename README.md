@@ -25,7 +25,26 @@ If you found our paper or this project is useful to you, please cite:
 
 ## Getting Started
 
-The first thing is to built the environment. We should follow the following insturction (see [Deformable DETR project](https://github.com/fundamentalvision/Deformable-DETR#installation) for more details). 
+### Prepare data
+
+The second step is to prepare datasets. Four datasets are involved:
+
+- Cityscapes [[download](https://www.cityscapes-dataset.com/downloads/)] (There are a lot of versions of Cityscapes, make sure you download the right one)
+- Foggy Cityscapes [[downlaod](https://www.cityscapes-dataset.com/downloads/)]
+- BDD100k [[download](https://doc.bdd100k.com/download.html#k-images)]
+- Sim10k [[download](https://fcav.engin.umich.edu/projects/driving-in-the-matrix)]
+
+**Processing dataset annotations**. All annotations are should in COCO format which can be processed by the code. We should covert the above four datasets in to CoCo Format.
+
+- Cityscapes to CoCo Format: using this [script](https://github.com/BIT-DA/O2net/blob/main/dataset_util/city2coco.py). (You can also refer to this [project](https://github.com/facebookresearch/maskrcnn-benchmark/tree/main/maskrcnn_benchmark/data#creating-symlinks-for-cityscapes))
+- BDD100k to CoCo Format: using this [script](https://github.com/BIT-DA/O2net/blob/main/dataset_util/bdd2coco.py).
+- Sim10k to CoCo Format: using this [script](https://github.com/BIT-DA/O2net/blob/main/dataset_util/sim2coco.py).
+
+We also prived processed [data lists](https://drive.google.com/drive/folders/1aqneAxjGH0hfx9cBpBll0vDycfnHaR1w?usp=sharing) in CoCo Format.
+- Cityscape \& Foggy Cityscapes default lists and car only lists (for Sim10k to Cityscapes)
+- BDD100k data lists
+- Sim10k data list
+
 
 ### Requirements
 
@@ -61,26 +80,6 @@ sh ./make.sh
 # unit test (should see all checking is True)
 python test.py
 ```
-
-### Dataset
-
-The second step is to prepare datasets. Four datasets are involved:
-
-- Cityscapes [[download](https://www.cityscapes-dataset.com/downloads/)] (There are a lot of versions of Cityscapes, make sure you download the right one)
-- Foggy Cityscapes [[downlaod](https://www.cityscapes-dataset.com/downloads/)]
-- BDD100k [[download](https://doc.bdd100k.com/download.html#k-images)]
-- Sim10k [[download](https://fcav.engin.umich.edu/projects/driving-in-the-matrix)]
-
-**Processing dataset annotations**. All annotations are should in COCO format which can be processed by the code. We should covert the above four datasets in to CoCo Format.
-
-- Cityscapes to CoCo Format: using this [script](https://github.com/BIT-DA/O2net/blob/main/dataset_util/city2coco.py). (You can also refer to this [project](https://github.com/facebookresearch/maskrcnn-benchmark/tree/main/maskrcnn_benchmark/data#creating-symlinks-for-cityscapes))
-- BDD100k to CoCo Format: using this [script](https://github.com/BIT-DA/O2net/blob/main/dataset_util/bdd2coco.py).
-- Sim10k to CoCo Format: using this [script](https://github.com/BIT-DA/O2net/blob/main/dataset_util/sim2coco.py).
-
-We also prived processed [data lists](https://drive.google.com/drive/folders/1aqneAxjGH0hfx9cBpBll0vDycfnHaR1w?usp=sharing) in CoCo Format.
-- Cityscape \& Foggy Cityscapes default lists and car only lists (for Sim10k to Cityscapes)
-- BDD100k data lists
-- Sim10k data list
 
 ## Training
 
