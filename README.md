@@ -48,6 +48,8 @@ We also prived processed [data lists](https://drive.google.com/drive/folders/1aq
 
 ### Requirements
 
+See [Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR#installation) for more details.
+
 * Linux, CUDA>=9.2, GCC>=5.4
   
 * Python>=3.7
