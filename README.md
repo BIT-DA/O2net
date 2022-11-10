@@ -108,8 +108,8 @@ sh DA.sh
 
 |   Model   | Source Domain| Target Domain | mAP@50 |  Download    |
 | --------- |:--------:|:-----------:|:-------------:|:-------------:|
-| Source_only| Cityscapes  | Foggy Cityscapes |     | [Model]() |
-| O2Net | Cityscapes  | Foggy Cityscapes |  28.6  | [Model]() |
+| Source_only| Cityscapes  | Foggy Cityscapes |  28.6   | [Model](https://drive.google.com/file/d/1OD1y3j97fJgITvkqozJpDRyEtxuBKvU4/view?usp=sharing) |
+| O2Net | Cityscapes  | Foggy Cityscapes |    | [Model]() |
 
 
 
