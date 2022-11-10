@@ -77,7 +77,10 @@ The second step is to prepare datasets. Four datasets are involved:
 - BDD100k to CoCo Format: using this [script](https://github.com/BIT-DA/O2net/blob/main/dataset_util/bdd2coco.py).
 - Sim10k to CoCo Format: using this [script](https://github.com/BIT-DA/O2net/blob/main/dataset_util/sim2coco.py).
 
-(**Optional**): using the provided [data list]().
+(**Optional**): using the provided [data lists](https://drive.google.com/drive/folders/1aqneAxjGH0hfx9cBpBll0vDycfnHaR1w?usp=sharing).
+- Cityscape \& Foggy Cityscapes default lists and car only lists (for Sim10k to Cityscapes)
+- BDD100k data lists
+- Sim10k data list
 
 ## Training
 
