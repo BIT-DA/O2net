@@ -6,7 +6,7 @@
   
   ACM Multimedia 2022, Lisbon, Portugal.
   
-  [![Paper](https://img.shields.io/badge/paper-arxiv.2208.01195-B31B1B.svg)](https://arxiv.org/abs/2204.14195) [[Supp]()]
+  [![Paper](https://img.shields.io/badge/paper-arxiv.2208.01195-B31B1B.svg)](https://arxiv.org/abs/2204.14195) [[Supp](https://github.com/BIT-DA/O2net/blob/main/O2Net_supp.pdf)]
   
 </div>
 
