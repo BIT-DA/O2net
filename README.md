@@ -41,7 +41,8 @@ The second step is to prepare datasets. Four datasets are involved:
 - Sim10k to CoCo Format: using this [script](https://github.com/BIT-DA/O2net/blob/main/dataset_util/sim2coco.py).
 
 We also prived processed [data lists](https://drive.google.com/drive/folders/1aqneAxjGH0hfx9cBpBll0vDycfnHaR1w?usp=sharing) in CoCo Format.
-- Cityscape \& Foggy Cityscapes default lists and car only lists (for Sim10k to Cityscapes)
+- Cityscapes and Foggy Cityscapes default lists
+- Cityscapes car only lists (for Sim10k to Cityscapes)
 - BDD100k data lists
 - Sim10k data list
 
