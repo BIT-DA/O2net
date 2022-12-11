@@ -8,6 +8,9 @@
   
   [![Paper](https://img.shields.io/badge/paper-arxiv.2208.01195-B31B1B.svg)](https://arxiv.org/abs/2204.14195) [[Supp](https://github.com/BIT-DA/O2net/blob/main/O2Net_supp.pdf)]
   
+  [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-transferability-for-domain-adaptive/unsupervised-domain-adaptation-on-cityscapes-1)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-cityscapes-1?p=improving-transferability-for-domain-adaptive)
+
+  
 </div>
 
 This repository contains the code of our ACM MM 2022 work "Improving Transferability for Domain Adaptive Detection Transformers".
